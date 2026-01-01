@@ -1,0 +1,133 @@
+AI Website Builder Prompt for “GustoKart”
+
+Prompt:
+Create a modern, animated, and visually stunning food website named GustoKart using the color palette #202d10 (dark green) and #c04000 (burnt orange).
+The website should include three full pages:
+
+Landing Page
+
+About Page
+
+Contact Us Page
+
+Also include a Cart Page, Checkout Page, Login / Signup Page, and Recipe Detail Page.
+
+✨ Landing Page Requirements
+
+A modern hero section with food imagery and a strong headline.
+
+A section showcasing recipes like Biryani, Karahi, Pasta, BBQ, and more.
+
+When a user clicks a recipe, it opens a Recipe Detail Page showing:
+
+Full recipe steps
+
+Ingredients list with checkboxes (user can select ingredients individually)
+
+"Add to Cart" button
+
+Ingredient selection must dynamically update the cart.
+
+✨ Navigation Bar Requirements
+
+Logo on the left: GustoKart
+
+Menu links: Home, About, Contact
+
+Icons on the right:
+
+Cart icon → Opens Cart Page (with quantity update, remove item, total price, delivery charges)
+
+User icon → Opens Login/Signup Page
+
+Use smooth animations, hover effects, and a sticky navigation bar.
+
+✨ Cart Page Requirements
+
+Show selected ingredients and quantities.
+
+Option to increase or decrease items.
+
+Show subtotal, delivery fee, and final total.
+
+“Proceed to Checkout” button.
+
+✨ Checkout Page Requirements
+
+Customer details form: Name, Phone, Address, Delivery Instructions, Payment Method.
+
+Order summary section.
+
+“Confirm Order” button with a success animation.
+
+✨ Login / Signup Page
+
+Modern, clean UI with dark green + orange theme.
+
+Sign in / Sign up form with fields:
+
+Email
+
+Password
+
+Name (for signup)
+
+Include “Continue as Guest” option.
+
+✨ About Page
+
+Story of GustoKart
+
+Hotel background + mission
+
+Cooking quality
+
+Fresh ingredient guarantee
+
+Chef introduction cards with animations.
+
+✨ Contact Page
+
+Contact form
+
+WhatsApp button
+
+Phone number
+
+Email
+
+Google Map embed
+
+Working hours section
+
+✨ Design & Style Requirements
+
+Use color palette:
+
+Primary: #202d10
+
+Accent: #c04000
+
+Clean, modern, animated layout.
+
+Smooth transitions and micro-interactions.
+
+Rounded cards, shadows, and appealing typography.
+
+Food photography emphasis with light animations (fade, slide, scale).
+
+Mobile responsive for perfect viewing on all devices.
+
+✨ Extra Features
+
+Search bar for recipes.
+
+Featured dishes slider.
+
+Customer reviews section.
+
+Newsletter signup.
+
+Footer with social icons, links, and policy pages.
+
+Generate this website with full UI, animations, pages, and structure based on the above instructions.
